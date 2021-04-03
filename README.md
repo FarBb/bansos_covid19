@@ -3,11 +3,11 @@ Aplikasi Penentu Bantuan Sosial Covid-19 Menggunakan Metode K-NN. Project Tugas 
 
 Menjalankan Aplikasi :
 
-(1) Buat database dengan nama db_sklh,
+(1) Buat database dengan nama db_sklh
 
-(2) Import database yang ada didalam file aplikasi bansos_covid-19,
+(2) Import database yang ada didalam file aplikasi bansos_covid-19
 
-(3) Simpan File bansos_covid-19 ke folder htdocs,
+(3) Simpan File bansos_covid-19 ke folder htdocs
 
 (4) Jalankan.
 

@@ -1,6 +1,9 @@
 # bansos_covid19
 Aplikasi Penentu Bantuan Sosial Covid-19 Menggunakan Metode K-NN. Project Tugas Akhir Kuliah. Menggunakan PHP Native. PHP Version 7.3.0. Database Mysqli. 
 
+![image](https://user-images.githubusercontent.com/59262381/113962123-4e65cf00-9851-11eb-8df2-86fe2e65e623.png)
+
+
 Menjalankan Aplikasi :
 
 (1) Buat database dengan nama db_sklh

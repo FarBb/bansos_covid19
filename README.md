@@ -11,6 +11,20 @@ Menjalankan Aplikasi :
 
 (4) Jalankan.
 
+Fitur:
+
+(+) Admin
+1. CRUD Data Set (Data Training) Siswa
+2. CRUD Tahun Akedemik
+3. Menset Tahun Akedemik
+4. CRUD Data Testing (Siswa Klasifikasi)
+5. Report
+
+(+)Siswa :
+1. Memvalidasi Data Siswa
+2. Mengedit Data Siswa
+3. Menganti Password
+
 Note: Jika Menganti nama file aplikasinya, silahkan setting file function.php, ganti base_url sesuai nama file yang dibuat.
 Enjoyyy...
 
